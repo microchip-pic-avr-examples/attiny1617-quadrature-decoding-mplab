@@ -36,12 +36,12 @@ Setup the connections as described in the diagram above
 
 ## Operation
 
-1. Open `CoreIndependentNightLightusingCCL.X` in MPLAB
+1. Open `CoreIndependentNightLightusingCCL.X` in MPLAB.
 2. Connect the ATtiny1617 with your programmer of choice, we used a Atmel ICE.
-3. Make sure the kit is selected as the tool to be programmed under project settings
+3. Make sure the kit is selected as the tool to be programmed under project settings.
 4. Press the make and program button to program the device.
-5. Interact with the encoder and see the effect on *count* `PA7` *direction* `PA4`
+5. Interact with the encoder and see the effect on *count* `PA7` *direction* `PA4`.
 
 ## Conclusion
 
-We have shown how you can use a attiny1617 to do quadrature decoding. Refere to the application note [AN2434](#Related-Documentation) for more details about the implementation
+We have shown how you can use a attiny1617 to do quadrature decoding. Refere to the application note [AN2434](#Related-Documentation) for more details about the implementation.
