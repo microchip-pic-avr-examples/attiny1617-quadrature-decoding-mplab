@@ -2,7 +2,7 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.1.0",
+        "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny1617-quadrature-decoding-mplab",
         "version": "1.0.1",
         "displayName": "Quadrature Decoding using CCL with TCA and TCB",
@@ -32,37 +32,11 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "ATtiny1617",
+                "name": "ATTINY1617",
                 "versionRange": "*"
             }
         },
         "author": "Microchip",
-        "subcategories": [
-            [
-                "Peripherals",
-                "TCA"
-            ],
-            [
-                "Peripherals",
-                "TCB"
-            ],
-            [
-                "Peripherals",
-                "EVSYS"
-            ],
-            [
-                "Peripherals",
-                "CCL"
-            ],
-            [
-                "Peripherals",
-                "CPUINT"
-            ],
-            [
-                "Supporting Tools",
-                "STK600"
-            ]
-        ],
         "peripherals": [
             "TCA",
             "TCB",
