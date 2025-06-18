@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny1617-quadrature-decoding-mplab",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "Quadrature Decoding using CCL with TCA and TCB",
         "projectName": "attiny1617-quadrature-decoding-mplab",
         "shortDescription": "This MPLAB X example demonstrates how to use an ATtiny1617 for Quadrature Decoding using CCL with TCA and TCB",
